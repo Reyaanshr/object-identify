@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+
+.furniture{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.heading{
+    margin-top: 90px;
+    width: 350px;
+    height: 50px;
+    font-size: 30px;
+}
+
+#start,#st{
+    font-size: 18px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: dimgrey;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+}
